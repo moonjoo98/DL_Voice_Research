@@ -9,3 +9,5 @@
 
 ### 03. 1D Convoultion 파라미터 및 코드 구현
 ##### https://mz-moonzoo.tistory.com/64
+
+### 04. 오디오 라이브러리 리서치
